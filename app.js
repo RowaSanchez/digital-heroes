@@ -35,5 +35,5 @@ res.send(heroes);
 
 // Ruta... ¿Pára qué sirve esto?
 app.get('creditos', (req, res) => {
-res.status(404).send('404 not found. <br> ¡Houston, poseemos problemas!');
+res.status(|404).send('404 not found. <br> ¡Houston, poseemos problemas!');
 });
